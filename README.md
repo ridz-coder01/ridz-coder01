@@ -1,4 +1,4 @@
-![My card name](https://cardivo.vercel.app/api?name=RIDZ%CODER01%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/ridz-coder01.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=Thedeveloper03&github=pixelPusher03&)
+![My card name](https://cardivo.vercel.app/api?name=RIDZ%CODER01%20&description=Hi,%20Welcome%20To%20My%20Profile&image=https://github.com/ridz-coder01.png?lenght=50width=50=400&u=5313a9a2f6999325a10ce9bfa9787b536c90894c&v=4?q=tbn:ANd9GcR7aMC3bf4bg4l_nhYS2Un9FXbFYcB4T83Shjk8xSUZDh_D61LFpzbpeqLW&s=10?v=4&backgroundColor=brown&instagram=ridz-coder01&github=Ridz-Coder01&)
 </p>
 
    ### I'm full-stack developer 👨‍💻 
@@ -11,23 +11,23 @@
  </p> 
 
  <p align="center"> 
- <img align="center" alt="count" src="https://count.getloli.com/get/@: pixelPusher03?theme=rule34"> 
+ <img align="center" alt="count" src="https://count.getloli.com/get/@: ridz-coder01?theme=rule34"> 
  </p>
 <br>
 
-   
-- 🔭 I’m currently working on [SM Mega Project](https://github.com/pixelPusher03?tab=repositories)  
-  
+
+- 🔭 I’m currently working on [SM Mega Project](https://github.com/ridz-coder01?tab=repositories)  
+
 
 - 🌱 I’m currently learning JavaScript,python and other coding languages 
 
 
-  
+
 - ❓ Ask me about anything related to SM mega stack and related technologies  
-  
+
 - ⚡ Fun fact: I use tabs over spaces 
 <br> 
-  
+
  - ⚡ Fun fact **Developer runs on Chai (Tea) ❤**
 
 ### Tech Stack and Tools:
@@ -70,37 +70,37 @@
 
   #### Tools:
   [![Tools](https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,firebase,supabase,stackoverflow,wordpress,linux,bash)](https://skillicons.dev)
- 
+
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
  ___
 
 # My GitHub status
-![trophy](https://github-profile-trophy.vercel.app/?username=pixelPusher03&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=ridz-coder01&theme=radical)
 <br>
 </p>
 
-![Github Badges](https://github-readme-stats.vercel.app/api?username=pixelPusher03&show_icons=true&theme=highcontrast)
+![Github Badges](https://github-readme-stats.vercel.app/api?username=ridz-coder01&show_icons=true&theme=highcontrast)
 <br>
 ___ 
-  
+
  <p align="center">
-<a href="https://github.com/pixelPusher03"><img title="pixelPusher03" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pixelPusher03&layout=compact&theme=radical"></a>
+<a href="https://github.com/ridz-coder01"><img title="ridz-coder01" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ridz-coder01&layout=compact&theme=radical"></a>
 </p>
  ___
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=pixelPusher03&theme=highcontrast&hide_border=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=ridz-coder01&theme=highcontrast&hide_border=true)
 ___
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=pixelPusher03&limit=5&theme=dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=ridz-coder01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 [<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
 
 ___
 
-[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=pixelPusher03&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
+[<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=ridz-coder01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
 
 ___
 ### Spotify Playing 🎧
@@ -113,14 +113,14 @@ ___
 
 <div align="center">
     <img
-        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963300&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+the+developer+;Thanks+for+Visiting+;Follow+my+github"
+        src="https://readme-typing-svg.herokuapp.com?font=Rubik+Dirt&size=25&duration=4997&color=963300&background=FF674200&center=true&vCenter=true&lines=Hi+there+Its+Ridz+Coder+;Thanks+for+Visiting+;Follow+my+github"
             alt="Typing SVG"
         />
     </a>
 
 ## 👨🏻‍💼 &nbsp;Connect with Me 
   <p>
-<a href="https://t.me/sacaofficialbot"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://instagram.com/the_developer03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/thedeveloper03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/the_developer03"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
+<a href="https://t.me/ridz-coder01"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/WhatsApp.png" width="10%"> </a><a href="https://instagram.com/ridz-coder01"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Instagram2.png" width="11%"> </a><a href="https://www.facebook.com/ridz-coder01"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/Facebook.png" width="12%"> </a><a href="https://twitter.com/ridz-coder01"> <img src="https://raw.githubusercontent.com/shizothetechie/database/main/icon/twitter.png" width="10%"> </a>
 </p>
  <br/>  
   <p align="center">
