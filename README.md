@@ -96,7 +96,7 @@ ___
 ![](https://github-contributor-stats.vercel.app/api?username=ridz-coder01&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/azkadev/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
+[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/ridz-coder01/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
 
 ___
 
