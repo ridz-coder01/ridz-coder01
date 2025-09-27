@@ -94,10 +94,6 @@ ___
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ridz-coder01&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[<img align="right" width="390" alt="🦑" src="https://gist.githubusercontent.com/ridz-coder01/da830a12192544969ed71c5ce133f00a/raw/achievements.svg">](#)
-
 ___
 
 [<img align="center" width="100%" alt="🦑" src="https://github-readme-activity-graph.vercel.app/graph/?username=ridz-coder01&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true">](#)
